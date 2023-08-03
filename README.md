@@ -63,7 +63,7 @@ Building a system to capture special moments within a video and create a new vid
 
 ### Results
 
-예상한 결과이지만 좋은 결과가 나오지 않았다. 이미지 속의 감지해야하는 객체의 크기가 아주 작은 만큼 단순한 분류 작업만으로 해결할 수 없었다.
+예상한 결과이지만 좋은 결과가 나오지 않았습니다. 이미지 속의 감지해야하는 객체의 크기가 아주 작은 만큼 단순한 분류 작업만으로 해결할 수 없었습니다.
 
 | Model | Accuracy | F1_score |
 |-------|----------|----------|
