@@ -6,7 +6,7 @@ Building a system to capture special moments within a video and create a new vid
 
 - [x] Classification
 - [x] Object detection
-- [ ] Background Estimation
+- [ ] Background Estimation & segmentation
 
 
 ## Data
