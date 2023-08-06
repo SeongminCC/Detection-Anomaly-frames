@@ -4,7 +4,9 @@ Building a system to capture special moments within a video and create a new vid
 ## Project Introduction
 본 프로젝트는 바다를 비추고 있는 전망대의 영상 데이터에서 특별한 순간의 frame를 감지하는 것을 목표로 하고 있습니다. 분명하게 정해진 class가 존재하지 않아 여러 task로 접근을 시도합니다.  
 
-다행히도 여러 sample data 들을 찾을 수 있어 각 sample들을 class로 분류한 후 supervised learning을 시도해 볼 수 있었으며, temporal window를 사용하여 Background Estimation을 진행할 생각입니다.  
+- [x] Classification
+- [x] Object detection
+- [ ] Background Estimation
 
 
 ## Data
